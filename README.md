@@ -1,6 +1,6 @@
 # Talleres de Python — Cuadernos Jupyter
 
-Conjunto de 10 cuadernos (.ipynb) con teoría + paso a paso + ejercicios + retos.
+Conjunto de 10 cuadernos (.ipynb) 
 Generado: 2025-08-26 16:40
 
 ## Estructura
