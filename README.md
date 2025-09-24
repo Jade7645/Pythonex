@@ -4,16 +4,16 @@ Conjunto de 10 cuadernos (.ipynb)
 Generado: 2025-08-26 16:40
 
 ## Estructura
-1. 01_Introduccion.ipynb
-2. 02_Tipos_y_Variables.ipynb
-3. 03_Operadores_y_Expresiones.ipynb
-4. 04_Estructuras_de_Control.ipynb
-5. 05_Colecciones.ipynb
-6. 06_Funciones.ipynb
-7. 07_Entrada_Salida_y_Formateo.ipynb
-8. 08_Manejo_de_Errores.ipynb
-9. 09_Modulos_y_Librerias.ipynb
-10. 10_Proyecto_Adivina_el_Numero.ipynb
+1. _Introduccion.ipynb
+2. _Tipos_y_Variables.ipynb
+3. _Operadores_y_Expresiones.ipynb
+4. _Estructuras_de_Control.ipynb
+5. _Colecciones.ipynb
+6. _Funciones.ipynb
+7. _Entrada_Salida_y_Formateo.ipynb
+8. _Manejo_de_Errores.ipynb
+10. _Modulos_y_Librerias.ipynb
+11. _Proyecto_Adivina_el_Numero.ipynb
 
 ## Cómo abrir
 - Opción A: Abre cada .ipynb en VS Code con la extensión de Jupyter.
